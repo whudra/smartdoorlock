@@ -3,4 +3,4 @@
 
 
 ## 📖 Wiki
-* [Guide](https://github.com/woosuk-computer-engineering/curriculum/wiki/Guide)
+* [Guide](https://github.com/whudra/smartdoorlock/wiki/Guide)
